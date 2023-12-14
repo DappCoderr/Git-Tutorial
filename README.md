@@ -62,6 +62,6 @@ Delete it after the work is done.
 
 17. `git remote rm <name of the remote>`
 
-18. `git remote rename <oldName> <newName>`
+18. `git remote rename <oldName> <newName>` -> To rename the file name.
 
 19. `git add .` -> To add multiple files from working to the staging area.
