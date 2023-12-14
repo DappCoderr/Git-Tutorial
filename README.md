@@ -76,3 +76,5 @@ Add file to staging area
 Commit those changes
 First pull to avoid conflict.
 Then push the changes to the repo.
+
+### stuck with the merge conflict!!
