@@ -89,5 +89,11 @@ New merge Conflict by user 2
 
 22. `git merge origin/master` -> To merge the changes from the remote 'master' branch.
 
+23.  `git remote -v` -> To verify the remote
+
+24. `git branch` -> To check all the branch repo has.
+
+25. `git branch -M main` -> To change the branch name or we can say to rename the branch.
+
 
 -------------------Concluded--------------------------------
