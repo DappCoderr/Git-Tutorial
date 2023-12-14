@@ -80,3 +80,5 @@ Then push the changes to the repo.
 ### stuck with the merge conflict!!
 
 merge conflict occured. Please resolve!
+
+New merge conflict by user 1.
