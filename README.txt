@@ -59,3 +59,5 @@ Delete it after the work is done.
 15. `git remote add <remote name> <remote link>`
 
 16. `git push <remote name> <branch name>`
+
+17. `git remote rm <name of the remote>`
