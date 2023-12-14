@@ -50,3 +50,12 @@ Delete it after the work is done.
 
 11. `git diff commitID2 commitID1` -> This provide a difference between both the commited files.
 
+12. `git commit -m "this is my final"` -> To avoid vim/nano editor and directly commit the message with the git command only.
+
+13. `git remote` -> To list down all the remote connection name.
+
+14. Remote Connection -> It help you to link 2 git repos for uploading and downloading changes from each other.
+
+15. `git remote add <remote name> <remote link>`
+
+16. `git push <remote name> <branch name>`
