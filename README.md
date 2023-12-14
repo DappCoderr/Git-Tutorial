@@ -67,3 +67,5 @@ Delete it after the work is done.
 19. `git add .` -> To add multiple files from working to the staging area.
 
 Changes made by some other user.
+
+20. `git pull origin master` -> Help you to pull all the changes made by your team mate to the same repo.
