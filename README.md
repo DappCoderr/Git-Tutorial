@@ -69,3 +69,5 @@ Delete it after the work is done.
 Changes made by some other user.
 
 20. `git pull origin master` -> Help you to pull all the changes made by your team mate to the same repo.
+
+merge conflict occured. Please resolve!
