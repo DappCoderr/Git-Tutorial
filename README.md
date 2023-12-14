@@ -95,5 +95,7 @@ New merge Conflict by user 2
 
 25. `git branch -M main` -> To change the branch name or we can say to rename the branch.
 
+26. `git checkout` -> To navigate from one branch to another branch.
+
 
 -------------------Concluded--------------------------------
