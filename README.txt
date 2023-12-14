@@ -46,3 +46,7 @@ Again doing this to lean the staging and unstaging of the git.
 Adding some new lines. 
 Delete it after the work is done.
 -------------------------------------------------------
+
+
+11. `git diff commitID2 commitID1` -> This provide a difference between both the commited files.
+
