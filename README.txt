@@ -27,3 +27,22 @@
 ### Commit -> A commit is a snapshot of the project in the staged changes and create a version out of it.
 
 8. `git commit` -> register staging changes to a commit.
+
+-------------------------------------------------------
+Adding some new lines. 
+Delete it after the work is done.
+-------------------------------------------------------
+
+9. `git restore README.txt` -> File in the staging area and remove all the modified content in the file.
+                            -> Instead of deleting all the changed in the file line by line, restore the last 
+                            clean version of the file.
+
+10. `git restore --staged README.txt` -> help you to move back your file changes from staging area to working area.
+                                      -> Then you can restore the file and get the clean a last version of it.
+
+-------------------------------------------------------
+Again doing this to lean the staging and unstaging of the git.
+
+Adding some new lines. 
+Delete it after the work is done.
+-------------------------------------------------------
