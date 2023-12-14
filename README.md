@@ -69,3 +69,10 @@ Delete it after the work is done.
 Changes made by some other user.
 
 20. `git pull origin master` -> Help you to pull all the changes made by your team mate to the same repo.
+
+### Best practice to use-
+Make changes
+Add file to staging area
+Commit those changes
+First pull to avoid conflict.
+Then push the changes to the repo.
