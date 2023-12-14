@@ -85,7 +85,7 @@ New merge conflict by user 1.
 
 New merge Conflict by user 2
 
-21. `git fetch origin master` -> To fetch the latesh changes
+21. `git fetch origin master` -> To fetch the latest changes
 
 22. `git merge origin/master` -> To merge the changes from the remote 'master' branch.
 
@@ -103,6 +103,13 @@ New merge Conflict by user 2
 28. `git branch -d <branch name>` -> To delete the branch.
 
 
+---------------------------UnDoing Commit Changes-------------------------------
+
+29. `git reset HEAD~1` -> Undoing for one commit
+
+30. `git reset <commit hash>` -> For many commit
+
+31. `git reset --hard <commit hast>` -> For many commit
 
 
 -------------------Concluded--------------------------------
