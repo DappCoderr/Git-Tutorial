@@ -84,3 +84,10 @@ merge conflict occured. Please resolve!
 New merge conflict by user 1.
 
 New merge Conflict by user 2
+
+21. `git fetch origin master` -> To fetch the latesh changes
+
+22. `git merge origin/master` -> To merge the changes from the remote 'master' branch.
+
+
+-------------------Concluded--------------------------------
